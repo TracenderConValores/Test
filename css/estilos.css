@@ -1,0 +1,17 @@
+body {
+  background-color:#0d521a;
+     color:white;
+     margin:20px;
+     padding:20px;
+     font-size:45px;
+}
+
+img[alt*="Tierra"] {
+  background: #7abf79;
+}
+
+
+
+ul#bubble li {
+  display:inline;
+}
